@@ -10,7 +10,7 @@ A React based prototype for the Agentic Lender project. The portal provides a mu
 --How to Run the Prototype
 
 1.Clone the repository:
-  git clone https://github.com/reyqh/AL-Web-Multi-View-Portal
+  git clone [https://github.com/reyqh/AL-Web-Multi-View-Portal](https://github.com/reyqh/AL-Web-Multi-View-Portal-)
 
 2.Navigate into the project folder:
   cd AL-Web
