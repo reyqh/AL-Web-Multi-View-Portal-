@@ -24,17 +24,17 @@ How to Run the Prototype
 5.Open the local URL shown in the terminal (usually http://localhost:5173/) in your browser.
 
 Available Features
-    Dashboard: Overview of loan applications and key statistics. 
+  1.Dashboard: Overview of loan applications and key statistics. 
   
-  Applications: View, search, and filter example loan applications.
+  2.Applications: View, search, and filter example loan applications.
   
-  Application Details: View the details of an individual application.
+  3.Application Details: View the details of an individual application.
   
-  AI Audit Console: View an example AI assessment and audit information.
+  4.AI Audit Console: View an example AI assessment and audit information.
   
-  Loan Approval: Select an application and record a demo approval or rejection decision.
+  5.Loan Approval: Select an application and record a demo approval or rejection decision.
   
-  Stress Testing: View illustrative financial stress-testing scenarios.
+  6.Stress Testing: View illustrative financial stress-testing scenarios.
 
 Notes
   This is a front-end prototype using example data.
