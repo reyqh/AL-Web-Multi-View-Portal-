@@ -1,13 +1,13 @@
 # AL-Web-Multi-View-Portal-
 A React based prototype for the Agentic Lender project. The portal provides a multi-view interface for managing loan applications, reviewing example AI assessments, recording approval decisions, and viewing stress-testing scenarios.
 
-Requirements
+--Requirements
 
   Node.js (includes npm)
   Git
   A code editor such as Visual Studio Code
 
-How to Run the Prototype
+--How to Run the Prototype
 
 1.Clone the repository:
   git clone <repository-url>
@@ -23,7 +23,8 @@ How to Run the Prototype
 
 5.Open the local URL shown in the terminal (usually http://localhost:5173/) in your browser.
 
-Available Features
+--Available Features
+
   1.Dashboard: Overview of loan applications and key statistics. 
   
   2.Applications: View, search, and filter example loan applications.
@@ -36,14 +37,22 @@ Available Features
   
   6.Stress Testing: View illustrative financial stress-testing scenarios.
 
-Notes
-  This is a front-end prototype using example data.
-  AI assessments and stress-testing scenarios are illustrative and do not perform real calculations.
-  Approval decisions are temporary and are not saved to a database.
-  No backend or database setup is required.
+--Notes
+
+  1.This is a front-end prototype using example data.
   
-Technology
-  React
-  Vite
-  React Router
-  CSS
+  2.AI assessments and stress-testing scenarios are illustrative and do not perform real calculations.
+  
+  3.Approval decisions are temporary and are not saved to a database.
+  
+  4.No backend or database setup is required.
+  
+--Technology
+
+  1.React
+  
+  2.Vite
+  
+  3.React Router
+  
+  4.CSS
