@@ -24,7 +24,7 @@ How to Run the Prototype
 5.Open the local URL shown in the terminal (usually http://localhost:5173/) in your browser.
 
 Available Features
-  Dashboard: Overview of loan applications and key statistics. 
+    Dashboard: Overview of loan applications and key statistics. 
   
   Applications: View, search, and filter example loan applications.
   
