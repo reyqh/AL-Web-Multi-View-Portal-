@@ -25,10 +25,15 @@ How to Run the Prototype
 
 Available Features
   Dashboard: Overview of loan applications and key statistics. 
+  
   Applications: View, search, and filter example loan applications.
+  
   Application Details: View the details of an individual application.
+  
   AI Audit Console: View an example AI assessment and audit information.
+  
   Loan Approval: Select an application and record a demo approval or rejection decision.
+  
   Stress Testing: View illustrative financial stress-testing scenarios.
 
 Notes
